@@ -7,7 +7,7 @@
 ## My Stats
 
 <p align="center">
-    <a href="https://github.com/cryptomilk/">
+    <a href="https://github.com/jhrozek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhrozek&show_icons=true&theme=radical" />
     </a>
 </p>
