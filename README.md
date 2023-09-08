@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on making OpenShift and Kubernetes more secure
+- 🔭 I’m currently working on making developer workflows more secure
 - 👯 I’m looking to collaborate on open source software related to computer and cloud security
 - 📫 How to reach me: `jakub<dot>hrozek<at>posteo.se`
   
